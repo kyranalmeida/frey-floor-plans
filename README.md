@@ -1,9 +1,9 @@
+# Frey Property Floor Plans
+
 <img width="1468" height="834" alt="preview" src="https://github.com/user-attachments/assets/5613092f-a48d-4871-8f6e-fa54d8fd6be9" />
 
 
-# Frey Property Floor Plans
 
-![Floor Plan Filter UI](./preview.png)
 
 # Frey Property Floor Plans — WordPress REST & Vanilla ES6 Filter Module
 
