@@ -1,3 +1,5 @@
+![Floor Plan Filter UI](./preview.png)
+
 # Frey Property Floor Plans
 
 ![Floor Plan Filter UI](./preview.png)
